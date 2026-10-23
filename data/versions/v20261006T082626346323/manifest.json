@@ -1,0 +1,26 @@
+{
+  "version_id": "v20261006T082626346323",
+  "created_at": "2026-10-06T08:26:26.359301+00:00",
+  "documents": [
+    {
+      "path": "/mnt/data/task1work/customer_service_chatbot_LLM/dataset/dataset.csv",
+      "sha256": "930649d927881235ecbd3b53b29de92ddf8dbeca084657774335630eb9361b9a",
+      "normalized_sha256": "0d90d224fd752018bbc495637e814cd7a64d64523fb7484c3ac58e8eba706cdc",
+      "status": "accepted",
+      "reason": "",
+      "changed": true
+    }
+  ],
+  "changed_documents": [
+    {
+      "path": "/mnt/data/task1work/customer_service_chatbot_LLM/dataset/dataset.csv",
+      "sha256": "930649d927881235ecbd3b53b29de92ddf8dbeca084657774335630eb9361b9a",
+      "normalized_sha256": "0d90d224fd752018bbc495637e814cd7a64d64523fb7484c3ac58e8eba706cdc",
+      "status": "accepted",
+      "reason": "",
+      "changed": true
+    }
+  ],
+  "faq_count": 76,
+  "retrieval_format": 2
+}

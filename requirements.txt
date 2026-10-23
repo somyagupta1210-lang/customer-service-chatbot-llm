@@ -1,0 +1,9 @@
+streamlit>=1.40,<2
+google-genai>=1.30
+python-dotenv>=1.0
+pandas>=2.2
+numpy>=2.0
+pytest>=8.0
+Pillow>=10.0
+pytesseract>=0.3.10
+pypdf>=5.0
